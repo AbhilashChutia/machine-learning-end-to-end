@@ -14,7 +14,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup (
-    name='student-performance-indicator',
+    name='machine-learning-end-to-end',
     version='0.0.1',
     author='abhilash',
     author_email='abhilashchutia1999@gmail.com',
