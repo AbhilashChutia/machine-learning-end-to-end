@@ -1,7 +1,5 @@
 # End-to-End Machine Learning Project Architecture
 
-![System Architecture](watermarked_img_11169013272961002435.png)
-
 This repository contains a complete, production-ready Machine Learning pipeline, transitioning from Exploratory Data Analysis (EDA) in Jupyter Notebooks to a fully modular, deployable system.
 
 ---
